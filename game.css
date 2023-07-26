@@ -1,0 +1,27 @@
+body {
+	background:yellowgreen;
+}
+
+.login_div1,
+.login_div2 {
+	background: yellowgreen;
+	padding: 10px;
+	float: none;
+	border-radius: 45px;
+}
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+
+#player1Name,
+#player2Name {
+	display: inline-block;
+	margin-left: 20px;
+}
+
